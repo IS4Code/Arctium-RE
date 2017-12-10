@@ -1,0 +1,2 @@
+C:\Users\Illidan\Documents\SharpDevelop Projects\ArctiumDeobfuscator\bin\Debug\Arctium2\obj\x64\Debug\Arctium WoW Legion Sandbox.csprojResolveAssemblyReference.cache
+C:\Users\Illidan\Documents\SharpDevelop Projects\ArctiumDeobfuscator\bin\Debug\Arctium2\obj\x64\Debug\Arctium WoW Legion Sandbox.csproj.CoreCompileInputs.cache
